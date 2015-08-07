@@ -220,4 +220,6 @@ packages/
 # Advanced Installer setup Files
 *.msi
 *-cache/
-HAST.Elite.Dangerous.DataAssistant/Class1.cs
+*.GhostDoc.xml
+
+*.nupkg
